@@ -1,0 +1,353 @@
+<?xml version="1.0"?> 
+<?xml-stylesheet href="/css/rss20.xsl" type="text/xsl"?> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0" xmlns:pheedo="http://www.pheedo.com/namespace/pheedo"> 
+	<channel> 
+		<title>NYT &gt; World</title> 
+		<link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link> 
+		<description/> 
+		<language>en-us</language> 
+		<copyright>Copyright 2011  The New York Times Company</copyright> 
+		<lastBuildDate>Sat, 29 Jan 2011 03:50:51 GMT </lastBuildDate> 
+		<image> 
+			<title>NYT &gt; World</title> 
+			<url>http://graphics.nytimes.com/images/section/NytSectionHeader.gif</url> 
+			<link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link> 
+		</image> 
+		<atom:link rel="hub" href="http://www.pheedo.com/api/hub/"/> 
+		<atom:link rel="self" href="http://feeds.nytimes.com/nyt/rss/World" type="application/rss+xml"/> 
+		<item> 
+			<title>Mubarak Vows Cabinet Shift but Defends Deploying Army as Revolt Sweeps Egypt</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=ba371a9f3d295c1681a15c32457e8624</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29unrest.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29unrest.html</guid> 
+			<media:content url="http://graphics8.nytimes.com/images/2011/01/29/world/29egypt1_span/29egypt1_span-thumbStandard.jpg" medium="image" height="75" width="75"/> 
+			<media:description>Egyptians surveyed the damage to the headquarters of the ruling party early Saturday.</media:description> 
+			<media:credit>Scott Nelson for The New York Times</media:credit> 
+			<description>Protesters continued to defy a nationwide curfew early Saturday as President Hosni Mubarak deployed the military to save his authoritarian government of nearly 30 years.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=ba371a9f3d295c1681a15c32457e8624&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=ba371a9f3d295c1681a15c32457e8624&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By DAVID D. KIRKPATRICK</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:50:05 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/des">Demonstrations, Protests, and Riots</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Middle East</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Tunisia</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Yemen</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Jordan</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Ben Ali, Zine El-Abidine</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">ElBaradei, Mohamed</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Saleh, Ali Abdullah</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Mubarak, Hosni</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Twitter</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook.com</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Muslim Brotherhood</category> 
+		</item> 
+		<item> 
+			<title>Egyptians&#x2019; Fury Has Smoldered Beneath the Surface for Decades</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=c7523dd783150e295408b38cc0ec06d6</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29mubarak.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29mubarak.html</guid> 
+			<description>Egyptians have demonstrated over the years about low wages, poverty and the election process, but never in such a widespread fashion.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=c7523dd783150e295408b38cc0ec06d6&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=c7523dd783150e295408b38cc0ec06d6&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By MICHAEL SLACKMAN</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:45:01 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Mubarak, Hosni</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Demonstrations, Protests, and Riots</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Mubarak, Gamal</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Politics and Government</category> 
+		</item> 
+		<item> 
+			<title>A Nobelist Has an Unfamiliar Role in Protests</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=cfa64ed30b6c0bb77faaaa3a27d131cb</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29elbaradei.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29elbaradei.html</guid> 
+			<media:content url="http://graphics8.nytimes.com/images/2011/01/29/world/29ELBARADEI/29ELBARADEI-thumbStandard.jpg" medium="image" height="75" width="75"/> 
+			<media:description>Mohamed ElBaradei, second from right, on Friday in the crowd of Egyptian protesters in Cairo.</media:description> 
+			<media:credit>Khaled El Fiqi/European Pressphoto Agency</media:credit> 
+			<description>A police confrontation is the latest turn in Mohamed ElBaradei&#x2019;s unexpected second career in Egypt&#x2019;s politics.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=cfa64ed30b6c0bb77faaaa3a27d131cb&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=cfa64ed30b6c0bb77faaaa3a27d131cb&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By DAVID D. KIRKPATRICK</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:08:55 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">ElBaradei, Mohamed</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Demonstrations, Protests, and Riots</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Politics and Government</category> 
+			<category domain="http://www.nytimes.com/namespaces/mdes">Human Rights and Human Rights Violations</category> 
+		</item> 
+		<item> 
+			<title>Egyptian Hopes Converge in Fight for Cairo Bridge</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=e351f9571e3f8ff3a4eef1ab184719aa</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29cairo.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29cairo.html</guid> 
+			<media:content url="http://graphics8.nytimes.com/images/2011/01/29/world/29CAIRO1/29CAIRO1-thumbStandard.jpg" medium="image" height="75" width="75"/> 
+			<media:description>Security forces with water cannons and tear gas confronted protesters heading to a central square and pushed them back across the Kasr al-Nil Bridge in Cairo, part of a battle that lasted hours.</media:description> 
+			<media:credit>Peter Macdiarmid/Getty Images</media:credit> 
+			<description>Hours of struggle for a bridge defined the day&#x2019;s events throughout Egypt as people shed their fear of the government, a few halting steps at a time.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=e351f9571e3f8ff3a4eef1ab184719aa&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=e351f9571e3f8ff3a4eef1ab184719aa&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By KAREEM FAHIM</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:45:04 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Demonstrations, Protests, and Riots</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Police</category> 
+		</item> 
+		<item> 
+			<title>In Alexandria, Protesters Rout the Police, for Now</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=a6187b785ed2766ad77ad5a79d5c774f</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29alexandria.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29alexandria.html</guid> 
+			<description>Alexandria was the scene of some of the fiercest fighting in the country on Friday as riot police officers fired tear-gas canisters and rubber bullets and protesters hurled paving stones.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=a6187b785ed2766ad77ad5a79d5c774f&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=a6187b785ed2766ad77ad5a79d5c774f&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By NICHOLAS KULISH and SOUAD MEKHENNET</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:44:03 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Alexandria (Egypt)</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Demonstrations, Protests, and Riots</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Police</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Human Rights Watch</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Mubarak, Hosni</category> 
+		</item> 
+		<item> 
+			<title>Egypt&#x2019;s Military Is Seen as Pivotal in Next Step</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=740cb8d7b6020eae56333e11d2591b0d</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29forces.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29forces.html</guid> 
+			<description>It is difficult to predict what role the military might play in quelling protests or easing the president from power.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=740cb8d7b6020eae56333e11d2591b0d&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=740cb8d7b6020eae56333e11d2591b0d&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By NEIL MacFARQUHAR</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:15:59 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Defense and Military Forces</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Demonstrations, Protests, and Riots</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Mubarak, Hosni</category> 
+		</item> 
+		<item> 
+			<title>Obama Cautions Embattled Ally Against Violence</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=0b5c832f09cc72123edbd4747f762817</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29diplo.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29diplo.html</guid> 
+			<description>President Obama put Egypt&#x2019;s embattled leader, Hosni Mubarak, on notice against a bloody crackdown, edging away from a close American ally.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=0b5c832f09cc72123edbd4747f762817&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=0b5c832f09cc72123edbd4747f762817&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By MARK LANDLER</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:50:06 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Clinton, Hillary Rodham</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/mdes">United States International Relations</category> 
+		</item> 
+		<item> 
+			<title>Al Jazeera Covers Protests Despite Hurdles</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=2ce35a002b0a276822a8781552b8e840</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29jazeera.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29jazeera.html</guid> 
+			<media:content url="http://graphics8.nytimes.com/images/2011/01/29/world/29JAZEERA/29JAZEERA-thumbStandard.jpg" medium="image" height="75" width="75"/> 
+			<media:description>Clashes with the police raged across Egypt on Friday. A man was treated after suffering puncture wounds during protests in Cairo.</media:description> 
+			<media:credit>Tara Todras-Whitehill/Associated Press</media:credit> 
+			<description>The channel has provided exhaustive coverage of Egypt&#x2019;s protests despite repeated efforts to block its broadcasts.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=2ce35a002b0a276822a8781552b8e840&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=2ce35a002b0a276822a8781552b8e840&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By ROBERT F. WORTH</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:44:08 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Al Jazeera</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">News and News Media</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Demonstrations, Protests, and Riots</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Arabic Language</category> 
+			<category domain="http://www.nytimes.com/namespaces/mdes">Television</category> 
+		</item> 
+		<item> 
+			<title>Unrest Worries Credit Raters. So Does Calming It.</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=54a89f73fabd320136f0fb1c5e995f80</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29egypt-economy.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29egypt-economy.html</guid> 
+			<description>Credit rating agencies&#x2019; concerns over the tumult in the Middle East focused on how much governments there might step up spending to calm public ire, but others called the timing of the agencies&#x2019; warnings &#x201C;ill-advised.&#x201D;&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=54a89f73fabd320136f0fb1c5e995f80&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=54a89f73fabd320136f0fb1c5e995f80&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By LIZ ALDERMAN</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:11:39 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/des">Ratings and Rating Systems</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Economic Conditions and Trends</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Roth, Kenneth</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">World Economic Forum</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Human Rights Watch</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Twitter</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook.com</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Standard &amp; Poor's Corp</category> 
+		</item> 
+		<item> 
+			<title>Egyptian Military Chiefs Cut Pentagon Visit Short</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=c9d482c82d5cc0b2e7fdb4a1105b19e6</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29military-egypt.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29military-egypt.html</guid> 
+			<description>The chief of staff of Egypt&#x2019;s armed forces, Lt. Gen. Sami Hafez Enan, was due to meet Monday with Adm. Mike Mullen, the chairman of the Joint Chiefs of Staff.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=c9d482c82d5cc0b2e7fdb4a1105b19e6&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=c9d482c82d5cc0b2e7fdb4a1105b19e6&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By ELISABETH BUMILLER</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:13:55 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Demonstrations, Protests, and Riots</category> 
+		</item> 
+		<item> 
+			<title>Egypt Cuts Off Most Internet and Cell Service</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=1943f7e61f8f923d251ad6dd3f8d0abf</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/technology/internet/29cutoff.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/technology/internet/29cutoff.html</guid> 
+			<description>Egypt has cut off nearly all Internet traffic into and out of the country and disrupted cellphone service as it struggles to contain protests.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=1943f7e61f8f923d251ad6dd3f8d0abf&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=1943f7e61f8f923d251ad6dd3f8d0abf&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By MATT RICHTEL</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:10:24 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Computers and the Internet</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Social Networking (Internet)</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Wireless Communications</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Vodafone Group Plc|VOD|NASDAQ</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook.com</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Twitter</category> 
+		</item> 
+		<item> 
+			<title>Protests Unsettle Jordan While Most Other Neighbors Stay Calm</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=93acf03a4c8f51d4885ab630bfbdc50c</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29region.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29region.html</guid> 
+			<description>Thousands of protesters gathered in Jordan, but Yemen and other restive locales in the Middle East stayed relatively quiet Friday, as the region&#x2019;s focus turned to Egypt.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=93acf03a4c8f51d4885ab630bfbdc50c&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=93acf03a4c8f51d4885ab630bfbdc50c&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By ANTHONY SHADID and ETHAN BRONNER</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:10:04 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/des">Demonstrations, Protests, and Riots</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Middle East</category> 
+		</item> 
+		<item> 
+			<title>Iran Sees Rise of Islamic Hard-Liners</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=f755c41323cc5360d60882b8a05823f3</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29iran.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29iran.html</guid> 
+			<description>A leading supporter of Iran&#x2019;s government predicted that conservative Islamic forces would eventually gain the upper hand in Tunisia, Egypt and Yemen.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=f755c41323cc5360d60882b8a05823f3&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=f755c41323cc5360d60882b8a05823f3&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By WILLIAM YONG</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:10:04 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Iran</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Larijani, Mohammad-Javad</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Egypt</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Tunisia</category> 
+		</item> 
+		<item> 
+			<title>Ireland, Mired in Crisis, Will Dissolve Parliament</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=578c905541765d8d929842f1a558e2c0</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/europe/29ireland.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/europe/29ireland.html</guid> 
+			<description>The nation&#x2019;s financial crisis has effectively ended the political career of Prime Minister Brian Cowen.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=578c905541765d8d929842f1a558e2c0&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=578c905541765d8d929842f1a558e2c0&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By JOHN F. BURNS</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 02:40:21 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Ireland</category> 
+			<category domain="http://www.nytimes.com/namespaces/mdes">Legislatures and Parliaments</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Cowen, Brian</category> 
+		</item> 
+		<item> 
+			<title>Deadly Attack by Taliban in Kabul Sought to Kill Head of Blackwater</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=d6008a6aa1178018167977589cb0bd66</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/asia/29afghan.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/asia/29afghan.html</guid> 
+			<description>An explosion in a Kabul supermarket frequented by foreigners on Friday afternoon killed at least eight people and wounded at least 12.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=d6008a6aa1178018167977589cb0bd66&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=d6008a6aa1178018167977589cb0bd66&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By RAY RIVERA, ALISSA J. RUBIN and SHARIFULLAH SAHAK &lt;byline&gt;</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 03:04:38 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Kabul (Afghanistan)</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Afghanistan</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Bombs and Explosives</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Supermarkets</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Afghanistan War (2001- )</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">International Relations</category> 
+		</item> 
+		<item> 
+			<title>Germany Plans Start of Troop Withdrawal</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=8f68a5cc98d44b69caeab12235dcd6a6</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/europe/29germany.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/europe/29germany.html</guid> 
+			<description>Germany&#x2019;s Parliament voted to bring its soldiers back from Afghanistan beginning this year, with the caveat &#x201C;if the security situation allows.&#x201D;&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=8f68a5cc98d44b69caeab12235dcd6a6&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=8f68a5cc98d44b69caeab12235dcd6a6&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By JUDY DEMPSEY</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 01:40:19 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Germany</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Afghanistan War (2001- )</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Merkel, Angela</category> 
+		</item> 
+		<item> 
+			<title>Palestinian Is Shot in Head in Clash With Israeli Settlers</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=230b0ca6315eeba79cdeee00b68e5efc</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/middleeast/29hebron.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/middleeast/29hebron.html</guid> 
+			<description>In the second such incident in two days, the Israeli police said Jewish settlers opened fire after they were attacked by Palestinians throwing stones.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=230b0ca6315eeba79cdeee00b68e5efc&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=230b0ca6315eeba79cdeee00b68e5efc&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By ISABEL KERSHNER</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 02:21:00 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/des">Palestinians</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Israeli Settlements</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">West Bank</category> 
+		</item> 
+		<item> 
+			<title>Russia Adopts Color-Coded Terror Alert System</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=cbef254975a65ab33b06cc9c456b5b59</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/europe/29russia.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/europe/29russia.html</guid> 
+			<description>After the suicide bombing at a Moscow airport, Parliament on Friday approved an alert system similar to the one the United States adopted after 9/11, then dropped.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=cbef254975a65ab33b06cc9c456b5b59&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=cbef254975a65ab33b06cc9c456b5b59&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By ELLEN BARRY</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 01:40:19 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Domodedovo Airport</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Security and Warning Systems</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Russia</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Terrorism</category> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_per">Medvedev, Dmitri A</category> 
+		</item> 
+		<item> 
+			<title>American Charged in Pakistan Killing</title> 
+			<link>http://feeds.nytimes.com/click.phdo?i=086749089c7dda9aa3932f06fe0b7623</link> 
+			<pheedo:origLink>http://www.nytimes.com/2011/01/29/world/asia/29pakistan.html?partner=rss&amp;amp;emc=rss</pheedo:origLink> 
+			<guid isPermaLink="false">http://www.nytimes.com/2011/01/29/world/asia/29pakistan.html</guid> 
+			<media:content url="http://graphics8.nytimes.com/images/2011/01/29/world/29pakistan-cnd/29pakistan-cnd-thumbStandard.jpg" medium="image" height="75" width="75"/> 
+			<media:description>Raymond A. Davis was escorted by police after facing a judge in Lahore on Friday.</media:description> 
+			<media:credit>Str/Pakistan/Reuters</media:credit> 
+			<description>An American official, Raymond A. Davis, 36, was charged with murdering two Pakistanis.&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;br clear=&quot;both&quot; style=&quot;clear: both;&quot;/&gt;
+&lt;a href=&quot;http://ads.pheedo.com/click.phdo?s=086749089c7dda9aa3932f06fe0b7623&amp;p=1&quot;&gt;&lt;img alt=&quot;&quot; style=&quot;border: 0;&quot; border=&quot;0&quot; src=&quot;http://ads.pheedo.com/img.phdo?s=086749089c7dda9aa3932f06fe0b7623&amp;p=1&quot;/&gt;&lt;/a&gt;
+</description> 
+			<dc:creator>By WAQAR GILLANI and JANE PERLEZ</dc:creator> 
+			<pubDate>Sat, 29 Jan 2011 01:20:20 GMT</pubDate> 
+			<category domain="http://www.nytimes.com/namespaces/nyt_geo">Pakistan</category> 
+			<category domain="http://www.nytimes.com/namespaces/des">Murders and Attempted Murders</category> 
+		</item> 
+		<item> 
+			<title>The Saturday Profile: A U.S.-China Odyssey: Building a Better Mouse Map</title> 

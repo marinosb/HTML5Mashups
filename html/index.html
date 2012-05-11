@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" manifest="cache.manifest">
+<head>
+<meta charset=utf-8 />
+<meta name="viewport" content="width=620" />
+<title>Mashups: An Offline HTML5 Webapp by Marinos Bernitsas</title>
+<link rel="stylesheet" href="style.css" type="text/css" />
+<script src="html5utils.js"></script>
+<script src="ajax1.js"></script>
+</head>
+<body>
+      <h1>Mashups - <a style="color:blue;" href="http://bit.ly/html5mashups">bit.ly/html5mashups</a></h1>
+		<h2>An Offline HTML5 Webapp by Marinos Bernitsas</h2>
+		
+
+<div id="drop">
+</div>
+
+<div id="buttons">
+	<div id="refresh" onclick="javascript:updateCache()">
+		Get New Articles
+	</div>
+
+	<div id="prefs" onclick="javascript:dropTables();">
+		Clear DBs
+	</div>
+</div>
+
+<div id="mainbox">
+	<div id="loading" style="display:none;">
+		<img src="loading.gif" />
+				Loading..
+	</div>
+
+	<div id="offline" style="display:none;">
+				Offline Mode..Using cached copy
+	</div>
+
+	<div id="contents">
+		<a onclick="javascript:addSampleFeeds()">add sample feeds</a>
+	</div>
+</div>
+
+
+<script src="mashups.js"></script>
+
+<div id="footer">
+	2011 Marinos Bernitsas (<a href="http://bernitsas.com/dev/mashups.zip">Download Mashups for HTML5</a> - version 25)
+</div>
+
+	
+</body>
+</html>

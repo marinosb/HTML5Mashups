@@ -1,0 +1,5 @@
+-Filters
+-Drag and Drop
+-Databases
+-Offline Mode
+-History
